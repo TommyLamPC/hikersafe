@@ -3,4 +3,4 @@ This hiking application uses Flutter as a development software tool, so it can s
 
 ![FYP Poster(PNG)](https://user-images.githubusercontent.com/82134392/188783376-ad2f360f-dada-4e7a-a3a6-712df965b152.png)
 
-[![IMAGE ALT TEXT HERE](https://youtu.be/a-9zv-dI6eI/0.jpg)](https://youtu.be/a-9zv-dI6eI)
+![image](https://user-images.githubusercontent.com/82134392/188784096-7438cfde-f171-44fd-b764-b602c5a00aa5.png)(https://youtu.be/a-9zv-dI6eI)
