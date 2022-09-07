@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>728782477901-fb67jhdjlt17vt71oiarq9fpklght22u.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.728782477901-fb67jhdjlt17vt71oiarq9fpklght22u</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>728782477901-j38jvfl3tkdjhbme0sd1o9kr1o1keoj7.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyBTZqFeVTQy8L2M-AQ5lUdGqD5iFm5XQHY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>728782477901</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.thekingofkingslolz-gmail.com</string>
+	<key>PROJECT_ID</key>
+	<string>turing-seeker-325508</string>
+	<key>STORAGE_BUCKET</key>
+	<string>turing-seeker-325508.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:728782477901:ios:de79b343d2ed123d205a04</string>
+	<key>DATABASE_URL</key>
+	<string>https://turing-seeker-325508-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
